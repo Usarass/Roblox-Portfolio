@@ -135,3 +135,5 @@ The idea behind the framework: every system is a small module, systems don't cal
 ## 📫 Contact
 
 I'm open to new projects. You can reach me through my GitHub: [@Usarass](https://github.com/Usarass)
+
+Discord: `usaras`
