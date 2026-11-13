@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Roblox Developer Portfolio
+Roblox Developer Portfolio
 
 ![Roblox](https://img.shields.io/badge/Roblox-Developer-E2231A?style=for-the-badge&logo=roblox&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
@@ -12,39 +12,37 @@
 
 ---
 
-## 👋 About
+About
 
 Hi, I'm a Roblox developer. I've been making games for more than 4 years and I mostly work on gameplay systems, UI and performance. When I can, I write my own simple systems (for example my own deterministic physics) instead of relying on Roblox physics.
 
 Here are some of the games I worked on and a few clips of systems I made. If you're here to look at my work, I hope we can work together.
 
-**A note about AI:** I use AI as a helper, for example to ask questions, check ideas or speed up small things. I don't use it to generate entire games or systems. The code and the design decisions are mine.
-
 ---
 
 ## 🎮 Games
 
-### 🧟 Infected Wave
+Infected Wave
 [![Play](https://img.shields.io/badge/▶_Play-E2231A?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/games/85359394945450/Infected-Wave)
 
 Zombie survival. You fight endless waves of zombies that get harder with time, earn trophies and cash, unlock better weapons, train your strength and try to get on the leaderboards. You can play with friends.
 
-### 💥 Power Rampage
+Power Rampage
 [![Play](https://img.shields.io/badge/▶_Play-E2231A?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/games/106835634751553/Power-Rampage)
 
 Destroy a city. You punch buildings, roads and other objects into scrap, sell the scrap for cash and buy upgrades for punch strength, carrying capacity and walk speed.
 
-### 🎁 Our Present
+Our Present
 [![Play](https://img.shields.io/badge/▶_Play-E2231A?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/games/8383598123/Our-Present)
 
 Point-and-click escape room. You wake up in a strange room the day before New Year's and need to find a way out before a hidden timer runs out. Pick up items, read notes, solve puzzles. There are 6 endings. It also has a cutscene and a flashlight.
 
-### 🌴 Swing Rush Obby
+Swing Rush Obby
 [![Play](https://img.shields.io/badge/▶_Play-E2231A?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/games/86065867593312/Swing-Rush-Obby)
 
 A jungle obby about rope swinging. You swing over obstacles and go through 150 stages to reach the finish.
 
-### 🧩 Guess It
+Guess It
 [![Play](https://img.shields.io/badge/▶_Play-E2231A?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/games/16653986060/Guess-It) [![Showcase](https://img.shields.io/badge/Showcase-1F2937?style=flat-square)](https://streamable.com/7vbb51)
 
 Inspired by the TikTok "Guess The Block" videos. You guess Minecraft blocks, and players can also make their own guess games, so it can be about other series, anime and so on. It has prompts, you can see other players' answers, and chests give different loot.
@@ -132,7 +130,7 @@ The idea behind the framework: every system is a small module, systems don't cal
 
 ---
 
-## 📫 Contact
+Contact
 
 I'm open to new projects. You can reach me through my GitHub: [@Usarass](https://github.com/Usarass)
 
